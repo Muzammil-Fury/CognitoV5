@@ -1,0 +1,24 @@
+{
+    "envthre": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-cognitov5-envthre-115924-authRole",
+            "UnauthRoleArn": "arn:aws:iam::948459693271:role/amplify-cognitov5-envthre-115924-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::948459693271:role/amplify-cognitov5-envthre-115924-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "amplify-cognitov5-envthre-115924-deployment",
+            "UnauthRoleName": "amplify-cognitov5-envthre-115924-unauthRole",
+            "StackName": "amplify-cognitov5-envthre-115924",
+            "StackId": "arn:aws:cloudformation:ap-south-1:948459693271:stack/amplify-cognitov5-envthre-115924/5a4c3b60-4a3c-11ea-ad05-02abaae9da36",
+            "AmplifyAppId": "d25xwvjak6w9ky"
+        },
+        "categories": {
+            "auth": {
+                "cognitov50366606d0366606d": {
+                    "facebookAppId": "604303430114200",
+                    "googleClientId": "996355572768-9jms8p7j9qntfsahpr3t3uhrifl15fud.apps.googleusercontent.com",
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"604303430114200\",\"client_secret\":\"1a5948ea18255129c4b83c6c1c901234\"},{\"ProviderName\":\"Google\",\"client_id\":\"996355572768-9jms8p7j9qntfsahpr3t3uhrifl15fud.apps.googleusercontent.com\",\"client_secret\":\"gJ9eR0dkOcf7arjsmTSBaB8l\"}]"
+                }
+            }
+        }
+    }
+}
